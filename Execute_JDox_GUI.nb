@@ -1,0 +1,57 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1454,         49]
+NotebookOptionsPosition[      1138,         34]
+NotebookOutlinePosition[      1496,         50]
+CellTagsIndexPosition[      1453,         47]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{"Import", "[", 
+  RowBox[{
+   RowBox[{"NotebookDirectory", "[", "]"}], "<>", 
+   "\"\<MathematicaJDoxGUIinitFin.wl\>\""}], "]"}], "\n", 
+ RowBox[{"DeployJDoxGUI", "[", "]"}]}], "Input",
+ CellChangeTimes->{{3.7330696857291737`*^9, 3.73306972060774*^9}, {
+  3.733069829316325*^9, 3.733069875240836*^9}, {3.733070210185842*^9, 
+  3.7330702370887003`*^9}, {3.733070804048349*^9, 3.733070804503478*^9}, {
+  3.7330708398001223`*^9, 3.7330708495597982`*^9}},
+ CellLabel->
+  "4/18/18 15:57:19 \
+In[21]:=",ExpressionUUID->"5c958d21-07b0-46d7-aed1-e65e5cc63333"]
+},
+WindowSize->{1579, 1007},
+WindowMargins->{{Automatic, 458}, {72, Automatic}},
+FrontEndVersion->"11.1 for Mac OS X x86 (32-bit, 64-bit Kernel) (March 16, \
+2017)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 576, 12, 54, "Input", "ExpressionUUID" -> \
+"5c958d21-07b0-46d7-aed1-e65e5cc63333"]
+}
+]
+*)
+
