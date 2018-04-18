@@ -1,5 +1,6 @@
 (* ::Package:: *)
 
+(*Developed by J. Brendan Hagan*)
 ds=DateString[];
 datestring=StringReplace[ds,{" "->"_",":"->"_"}];
 stageDomain="jwst-docs-stage.stsci.edu";
